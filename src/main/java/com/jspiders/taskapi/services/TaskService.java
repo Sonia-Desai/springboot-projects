@@ -1,8 +1,8 @@
 package com.jspiders.taskapi.services;
 
-import com.jspiders.taskapi.data.CreateUserRequest;
-import com.jspiders.taskapi.data.Task;
-import com.jspiders.taskapi.data.UpdateTaskRequest;
+import com.jspiders.taskapi.data.users.CreateUserRequest;
+import com.jspiders.taskapi.data.tasks.Task;
+import com.jspiders.taskapi.data.tasks.UpdateTaskRequest;
 import org.springframework.http.ResponseEntity;
 
 import java.util.List;

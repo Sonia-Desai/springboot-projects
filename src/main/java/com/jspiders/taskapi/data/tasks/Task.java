@@ -1,10 +1,10 @@
-package com.jspiders.taskapi.data;
+package com.jspiders.taskapi.data.tasks;
 
 import lombok.Data;
 
 @Data
-public class CreateTaskRequest {
-
+public class Task {
+    private Long taskId;
     private String title;
     private String description;
     private String status;

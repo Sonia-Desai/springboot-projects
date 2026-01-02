@@ -1,4 +1,4 @@
-package com.jspiders.taskapi.data;
+package com.jspiders.taskapi.data.users;
 
 import lombok.Data;
 

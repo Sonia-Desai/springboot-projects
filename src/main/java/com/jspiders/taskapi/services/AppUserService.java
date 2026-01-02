@@ -2,8 +2,8 @@ package com.jspiders.taskapi.services;
 //interface tells about the features
 //By default all the methods are public of interface
 
-import com.jspiders.taskapi.data.AppUser;
-import com.jspiders.taskapi.data.CreateUserRequest;
+import com.jspiders.taskapi.data.users.AppUser;
+import com.jspiders.taskapi.data.users.CreateUserRequest;
 import org.springframework.http.ResponseEntity;
 
 import java.util.List;
