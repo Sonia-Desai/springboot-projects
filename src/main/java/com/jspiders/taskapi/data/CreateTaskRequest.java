@@ -3,8 +3,8 @@ package com.jspiders.taskapi.data;
 import lombok.Data;
 
 @Data
-public class Task {
-    private Long taskId;
+public class CreateTaskRequest {
+
     private String title;
     private String description;
     private String status;

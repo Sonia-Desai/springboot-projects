@@ -9,4 +9,6 @@ public class AppUser {
     private String email;
     private String password;
     private String mobile;
+    private boolean isActive;
+
 }
