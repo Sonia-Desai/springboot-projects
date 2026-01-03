@@ -4,6 +4,7 @@ import com.jspiders.taskapi.data.users.CreateUserRequest;
 import com.jspiders.taskapi.data.tasks.Task;
 import com.jspiders.taskapi.data.tasks.UpdateTaskRequest;
 import org.springframework.http.ResponseEntity;
+import org.springframework.stereotype.Service;
 
 import java.util.List;
 
